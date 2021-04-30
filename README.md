@@ -1,4 +1,4 @@
-# DS-ML-Logistic-Regression
+# Logistic Regression on the Titanic Dataset (Top 6% on Kaggle)
 Machine Learning using Logistic Regression: Whenever the variable that needs to be predicted requires a "binary" solution to the problem, we use Logistic Regression. This repository contains a project that will use Logistic Regression to determine whether a passenger; given their features could have survived the Titanic Crash.
 
 Follow the following steps to implement any ML algorithm:
